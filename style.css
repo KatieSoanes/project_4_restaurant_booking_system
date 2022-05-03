@@ -1,0 +1,16 @@
+h1 {
+    background-color: red;
+}
+
+footer {
+    background-color: black;
+    color: pink;
+    min-height: 120px;
+    margin: 0;
+}
+
+
+
+#footer-details {
+    padding: 20px;
+}
